@@ -5,3 +5,7 @@ git remote add origin 'link do github'
 git add .
 
 git commit -m "mensagem de commit" (toda vez que for fazer precisa "explicar" o motivo do commit)
+
+git push origin main
+
+criar branch nova: git checkout -b dev
